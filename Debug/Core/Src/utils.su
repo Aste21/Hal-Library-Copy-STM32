@@ -1,0 +1,3 @@
+../Core/Src/utils.c:3:6:LED_PIN_init	40	static
+../Core/Src/utils.c:15:6:turn_on_pin_struct	16	static
+../Core/Src/utils.c:20:6:turn_off_pin_struct	16	static

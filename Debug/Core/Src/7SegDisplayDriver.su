@@ -1,0 +1,4 @@
+../Core/Src/7SegDisplayDriver.c:3:6:DIGIT_init	32	static
+../Core/Src/7SegDisplayDriver.c:23:6:turn_off_full_segment	8	static
+../Core/Src/7SegDisplayDriver.c:28:6:display_number	24	static
+../Core/Src/7SegDisplayDriver.c:47:6:display_digit	16	static

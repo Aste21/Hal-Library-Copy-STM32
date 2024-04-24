@@ -1,0 +1,2 @@
+../Core/Src/JoystickDriver.c:3:6:JOY_STICK_init	1
+../Core/Src/JoystickDriver.c:16:16:joy_input_checker	6

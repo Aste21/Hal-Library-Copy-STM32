@@ -1,0 +1,12 @@
+../Core/Src/hulk.c:9:6:GPIO_init	3
+../Core/Src/hulk.c:32:6:TIM_init	8
+../Core/Src/hulk.c:82:6:turn_on_pin	1
+../Core/Src/hulk.c:87:6:turn_off_pin	1
+../Core/Src/hulk.c:92:10:read_pin	2
+../Core/Src/hulk.c:104:11:check_flag	2
+../Core/Src/hulk.c:113:6:clear_flag	1
+../Core/Src/hulk.c:118:6:start_timer	1
+../Core/Src/hulk.c:123:6:stop_timer	1
+../Core/Src/hulk.c:128:6:basic_TIM6_init	1
+../Core/Src/hulk.c:147:6:HULK_delay_old	2
+../Core/Src/hulk.c:156:6:HULK_delay	3
