@@ -1,9 +1,8 @@
 #include "main.h"
-#include "7SegDisplayDriver.h"
-#include "JoystickDriver.h"
 #include <stdbool.h>
 #include <stdio.h>
 #include "FIFO.h"
+#include "LPUART.h"
 
 #define ENTER_ASCII 13
 

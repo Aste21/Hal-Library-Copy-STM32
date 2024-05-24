@@ -1,8 +1,6 @@
 #include "7SegDisplayDriver.h"
 
 void DIGIT_init(void) {
-	basic_TIM6_init();
-
 	CLK_ENABLE(CLKB);
     CLK_ENABLE(CLKG);
     EnableVddIO2();
