@@ -22,5 +22,6 @@ void FIFO_Init(FIFO *fifo);
 void FIFO_Empty(FIFO *fifo);
 int FIFO_Put(FIFO *fifo, char data);
 int FIFO_Get(FIFO *fifo, char *data);
+int FIFO_IsEmpty(FIFO *fifo);
 
 #endif /* FIFO_H_ */
